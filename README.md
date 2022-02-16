@@ -41,7 +41,7 @@ module.exports = {
 <br />
 
 3. Select settings, shown in the image below:
-![settings](/img/settings.png)
+<p align="center"><img alt="settings" src="https://github.com/PatelN123/docusaurus-plugin-clarity/blob/main/img/settings.png"></p>
 
 <br />
 
