@@ -41,12 +41,12 @@ module.exports = {
 <br />
 
 3. Select settings, shown in the image below:
-<p align="center"><img alt="settings" src="https://github.com/PatelN123/docusaurus-plugin-clarity/blob/main/img/settings.png"></p>
+<p align="left"><img alt="settings" src="https://github.com/PatelN123/docusaurus-plugin-clarity/blob/main/img/settings.png"></p>
 
 <br />
 
 4. Select `setup`
-<p align="center"><img alt="settings" src="https://github.com/PatelN123/docusaurus-plugin-clarity/blob/main/img/setup.png"></p>
+<p align="left"><img alt="settings" src="https://github.com/PatelN123/docusaurus-plugin-clarity/blob/main/img/setup.png"></p>
 
 <br />
 
@@ -55,7 +55,7 @@ module.exports = {
 <br />
 
 6. Under the `Clarity tracking code` heading, there will be a piece of code, if you look at the screenshot below, the part underlined in green will be where the `ID` is located. 
-<p align="center"><img alt="settings" src="https://github.com/PatelN123/docusaurus-plugin-clarity/blob/main/img/id.png"></p>
+<p align="left"><img alt="settings" src="https://github.com/PatelN123/docusaurus-plugin-clarity/blob/main/img/id.png"></p>
 
 <br />
 
