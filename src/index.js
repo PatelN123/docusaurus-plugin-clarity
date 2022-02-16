@@ -25,7 +25,7 @@ module.exports = function(context) {
     name: "docusaurus-plugin-clarity",
 
     injectHtmlTags() {
-
+      console.log("Nayan Patel - Plugin clarity adding...");
       return {
         headTags: [
           {
