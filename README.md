@@ -46,7 +46,7 @@ module.exports = {
 <br />
 
 4. Select `setup`
-![setup](/img/setup.png)
+<p align="center"><img alt="settings" src="https://github.com/PatelN123/docusaurus-plugin-clarity/blob/main/img/setup.png"></p>
 
 <br />
 
@@ -55,7 +55,7 @@ module.exports = {
 <br />
 
 6. Under the `Clarity tracking code` heading, there will be a piece of code, if you look at the screenshot below, the part underlined in green will be where the `ID` is located. 
-![id](/img/id.png)
+<p align="center"><img alt="settings" src="https://github.com/PatelN123/docusaurus-plugin-clarity/blob/main/img/id.png"></p>
 
 <br />
 
