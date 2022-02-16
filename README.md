@@ -1,6 +1,6 @@
 ### docusaurus-plugin-clarity
 
-This plugin enables you can link your docusaurus site to bing clarity!
+This plugin enables you can link your docusaurus site to bing clarity
 
 #### Install the plugin
 
