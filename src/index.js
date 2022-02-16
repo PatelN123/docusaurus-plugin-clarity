@@ -1,6 +1,8 @@
 const path = require("path");
 
 module.exports = function(context) {
+  const { siteConfig } = context;
+  const { themeConfig } = siteConfig;
   const { clarity } = themeConfig || {};
 
   if (!clarity) {
